@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '42630'
     url: http://www.gutenberg.org/2009/agents/42630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44194#Life-of-Elie-Metchnikoff-1845-1916
 gutenberg_issued: '2013-11-16'
 gutenberg_type: Text
 identifiers:
